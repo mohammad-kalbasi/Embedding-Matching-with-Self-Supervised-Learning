@@ -1,1 +1,1 @@
-main codes for multimodal image registeration using embedding matching.
+Main codes for multimodal image registeration using embedding matching.
